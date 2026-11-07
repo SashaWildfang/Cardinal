@@ -1,0 +1,7 @@
+{
+  "id": "cardinal",
+  "name": "Cardinal",
+  "version": "1.0-SNAPSHOT",
+  "main": "com.bearnation.cardinal.Cardinal",
+  "authors": ["DetectivePlapper"]
+}
